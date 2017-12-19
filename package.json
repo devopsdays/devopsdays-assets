@@ -1,0 +1,24 @@
+{
+  "name": "devopsdays-assets",
+  "version": "2.0.0",
+  "description": "Static assets for devopsdays.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devopsdays/devopsdays-assets.git"
+  },
+  "author": "Matt Stratton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devopsdays/devopsdays-assets/issues"
+  },
+  "homepage": "https://github.com/devopsdays/devopsdays-assets#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-responsive": "^2.8.0",
+    "require-dir": "^0.3.2"
+  }
+}
