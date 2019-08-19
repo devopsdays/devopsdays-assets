@@ -1,2 +1,1 @@
 hugo version
-gulp
