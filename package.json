@@ -15,10 +15,5 @@
   "bugs": {
     "url": "https://github.com/devopsdays/devopsdays-assets/issues"
   },
-  "homepage": "https://github.com/devopsdays/devopsdays-assets#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-responsive": "^2.8.0",
-    "require-dir": "^0.3.2"
-  }
+  "homepage": "https://github.com/devopsdays/devopsdays-assets#readme"
 }
