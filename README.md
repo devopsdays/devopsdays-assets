@@ -20,31 +20,38 @@ To add your events assets without downloading the entire repo, follow these step
 
 1. Fork the main repo to your GitHub account
 2. Navigate to the `events` and the `[year]` for your event
-<img width="480" alt="image" src="https://github.com/jerdog/devopsdays-assets/assets/296864/6d33cb43-a974-4dcc-9ded-9c86d8d490b7">
+
+![image showing events and year folder](/images/step2.png)
 
 3. Create a branch by selecting the branch dropdown, and typing in a branch for your changes, i.e. `jerdog/[year]-event-name-assets` where `[year]` is the event year
-<img width="300" alt="image" src="https://github.com/jerdog/devopsdays-assets/assets/296864/2eb44739-2708-46a5-b230-a722ba8c85d7">
+
+![image new branch dropdown](/images/step3.png)
 
 4. On your machine, create a folder for your city, i.e. `kansas-city`, and then place the file(s) you want to upload there
 5. Select the **Add file** dropdown in the upper right, and select 
-<img width="217" alt="image" src="https://github.com/jerdog/devopsdays-assets/assets/296864/4d01ff6a-8416-4246-ab1c-f084d4008d20">
 
-5. Drag the **folder** that you created on your local machine to this window
-<img width="600" alt="image" src="https://github.com/jerdog/devopsdays-assets/assets/296864/dd6bf4f6-b281-42bd-9148-9846be20f334">
+![image showing the add file dropdown](/images/step5.png)
 
-6. Once uploaded, if you uploaded the **folder**, then you should see it displayed like this:
-<img width="600" alt="image" src="https://github.com/jerdog/devopsdays-assets/assets/296864/cda3a4a5-eb5e-4137-9c72-ccdc1eef9570">
+6. Drag the **folder** that you created on your local machine to this window. Once uploaded, if you uploaded the **folder**, then you should see it displayed like this:
+
+![image showing upload window with files deposited](/images/step6.png)
 
 7. Add a commit message, something short but descriptive like `adding assets for [event name]`, select the `Commit directly to the <branch you created> branch` option, and select **Commit changes**
-<img width="600" alt="image" src="https://github.com/jerdog/devopsdays-assets/assets/296864/aa1d129f-41d6-4ff7-a9e3-305fac256f5f">
 
-8. You will be returned to your repo view, with a message displayed about your branch having recent pushes, and an option to **Compare & pull request**. Choose that option
-<img width="600" alt="image" src="https://github.com/jerdog/devopsdays-assets/assets/296864/967771b4-7e63-4cfe-b5ff-6d5d45e62ed3">
+![image showing the commit message](/images/step7.png)
+
+8. You will be returned to your repo view, with a message displayed about your branch having recent pushes, and an option to **Compare & pull request**.... Choose that option.
+
+![image compare and pull request button](/images/step8.png)
 
 9. You will now be at a screen to initiate the request to pull your changes into the main devopsdays assets repo. Fill out the Pull Request title following the format of `[city initials - year] <short descriptive title>`
-<img width="600" alt="image" src="https://github.com/jerdog/devopsdays-assets/assets/296864/3b3a5972-7a9d-413b-b305-2b613d87cc13">
 
-10. If the pull request is a draft, meaning you still have more to add, then select from the dropdown ***Create draft pull request***. Otherwise, choose ***Create pull request***
-<img width="300" alt="image" src="https://github.com/jerdog/devopsdays-assets/assets/296864/f300197e-eb5b-4626-a72b-e4ac46dffed4">
+![image open pull request window](/images/step9.png)
+
+10.  If the pull request is a draft, meaning you still have more to add, then select from the dropdown ***Create draft pull request***. Otherwise, choose ***Create pull request***
+
+![image create pull request drop down](/images/step10.png)
 
 Now your pull request is ready for the devopsdays staff to review and merge.
+
+![image open pull request window](/images/step-done.png)
