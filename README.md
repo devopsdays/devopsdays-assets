@@ -1,5 +1,7 @@
 # devopsdays-assets
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/88b5fa6c-153e-4488-a048-a8b6161d1f1b/deploy-status)](https://app.netlify.com/sites/devopsdays-assets/deploys)
+
 This repository is a location for larger binary files that can be referenced by pages on the devopsdays.org website but aren't served up directly.
 
 Once files are merged into this repo, you can access them at `https://assets.devopsdays.org/PATH_TO_FILES` (example: `https://assets.devopsdays.org/events/2020/chicago/2020-chicago-devopsdays-prospectus.pdf`)
